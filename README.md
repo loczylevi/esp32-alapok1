@@ -19,7 +19,7 @@ https://docs.micropython.org/en/latest/library/index.html
 hozzá kell adni a felhasználót a dialout csoportba!
 aztán Thony --> Tools --> Options --> Interpeter --> felül micropython esp32 --> alul a portot kell kiválasztani
 
-sudo adduser loczylevi dialog
+sudo adduser loczylevi dialout
 
 route -n
 
