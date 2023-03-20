@@ -30,3 +30,6 @@ ifconfig
 lsusb --> ki listazza az összes usp portot ami be van dugva a számitogépbe
 
 cat /etc/group    --> dialouge csoportba ki tartozkodik
+
+sudo apt remove brltty    --> a vakos mod jobb ha elvan távolitva
+
